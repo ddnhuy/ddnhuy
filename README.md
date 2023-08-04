@@ -1,4 +1,4 @@
-## 👋 Hi there _```<coder/>```_! I am _```Doan Dinh Nhat Huy```_. 👋
+## 👋 Hi there _```<coder/>```_! I am _```Nhat Huy```_. 👋
 
 ![Sun Hi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamSunHi&show_icons=true&theme=dracula)
 
