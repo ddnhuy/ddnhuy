@@ -1,6 +1,8 @@
 ## Hi there _```<coder/>```_! I am _```Nhat Huy```_. 👋
 
-![Sun Hi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamSunHi&show_icons=true&theme=dracula)
+| Github Stats  | Most Used Languages |
+| ------------- | ------------- |
+| ![Sun Hi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamSunHi&show_icons=true&theme=dracula)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamSunHi&theme=dracula)](https://github.com/iamSunHi)  |
 
 ---
 I am a passionate individual deeply immersed in the world of Information Technology. From a young age, I've been fascinated by technology and its ever-evolving capabilities. This curiosity has led me to pursue a career in the field of IT, where I constantly strive to broaden my knowledge and sharpen my skills.
