@@ -2,14 +2,14 @@
 
 | Github Stats  | Most Used Languages |
 | ------------- | ------------- |
-| ![Sun Hi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamSunHi&show_icons=true&theme=dracula)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamSunHi&theme=dracula)](https://github.com/iamSunHi)  |
+| ![Sun Hi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamSunHi&theme=dracula)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamSunHi&langs_count=8&layout=compact&theme=dracula) |
 
 ---
 I am a passionate individual deeply immersed in the world of Information Technology. From a young age, I've been fascinated by technology and its ever-evolving capabilities. This curiosity has led me to pursue a career in the field of IT, where I constantly strive to broaden my knowledge and sharpen my skills.
 
-While I acknowledge that I still have much to learn and plenty of room for improvement, I embrace my shortcomings as opportunities for growth. I believe that the journey of self-improvement is a lifelong process, and I am committed to pushing my boundaries every day to become a better version of myself.
+While I acknowledge that I still have much to learn and plenty of room for improvement, I embrace my shortcomings as opportunities for growth, I believe that the journey of self-improvement is a lifelong process, and I am committed to pushing my boundaries every day to become a better version of myself.
 
-I am constantly seeking new challenges, exploring innovative technologies, and eagerly taking on any opportunity to learn and expand my skillset. With every line of code, every project completed, and every problem solved, I gain valuable experience and insights that fuel my passion even further.
+I am constantly seeking new challenges, exploring innovative technologies, and eagerly taking on any opportunity to learn and expand my skill set. With every line of code, every project completed, and every problem solved, I gained valuable experience and insights that fueled my passion even further.
 
 ---
 ### Thank you for visiting. Feel free to reach out, share ideas, or simply say hello!
