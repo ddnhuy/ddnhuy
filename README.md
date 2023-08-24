@@ -1,4 +1,5 @@
 ## Hi there _```<coder/>```_! I am _```Nhat Huy```_. 👋
+[![wakatime](https://wakatime.com/badge/user/cb3ef05e-4157-461c-8e91-cb55f98d490b.svg)](https://wakatime.com/@cb3ef05e-4157-461c-8e91-cb55f98d490b)
 
 | Github Stats  | Most Used Languages |
 | ------------- | ------------- |
