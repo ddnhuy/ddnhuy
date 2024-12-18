@@ -49,6 +49,8 @@ I am seeking new challenges, exploring innovative technologies, and eagerly taki
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
