@@ -31,8 +31,6 @@ Although I realize that I still have many things to learn and plenty of skills f
 
 I am seeking new challenges, exploring innovative technologies, and eagerly taking on any opportunity to learn and expand my skill set. With every line of code, every project completed, and every problem solved, I gain valuable experience and insights that fuel my passion even further.
 
-<img align="right" height="200" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=790b7611qaw1encb9i7r71nwf8dovinfjtmyacxb01n65hgn&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-
 ## 💻 **Technologies & Tools**
 
 ### **Programming Languages**
