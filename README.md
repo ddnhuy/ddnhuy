@@ -1,116 +1,172 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=7EE9FD&center=true&vCenter=true&width=500&lines=Hi+there+%3Ccoder%2F%3E!;I+am+Nhat+Huy%2C;A+passionate+.NET+developer+from+Vietnam." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=98d2c0&center=true&vCenter=true&width=600&lines=Hi+there+%3Ccoder%2F%3E!+👋;I+am+Nhat+Huy+🚀;Back-End+Developer+from+Vietnam+🇻🇳;Passionate+about+.NET+%26+Modern+Technologies+💻" alt="Typing SVG" />
 </div>
 
----
+<!-- <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ddnhuy&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ddnhuy?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ddnhuy?style=flat-square&color=blue" alt="Stars" />
+</div> -->
 
-###
+## 📊 **GitHub Statistics**
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ddnhuy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ddnhuy&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddnhuy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddnhuy&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&include_all_commits=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddnhuy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="160" alt="languages graph" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddnhuy&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
 
----
+## 🚀 **About Me**
 
-I am a person who is deeply interested in the world of technology. This has led me to pursue a career in the field of technology, where I constantly strive to widen my knowledge and sharpen my skills.
+I am a passionate developer deeply interested in the world of technology. This has led me to pursue a career in software development, where I constantly strive to widen my knowledge and sharpen my skills across various technologies.
+
+🎯 **Currently focused on:** .NET Backend Development  
+🌱 **Learning:** React, Docker, Kubernetes, and Cloud Technologies  
+💡 **Passion:** Building scalable and maintainable software solutions
 
 Although I realize that I still have many things to learn and plenty of skills for improvement, I see my shortcomings as opportunities to grow. I believe that the journey of self-improvement is a lifelong process, and I will always push my boundaries to become a better version of myself, day by day.
 
-I am seeking new challenges, exploring innovative technologies, and eagerly taking on any opportunity to learn and expand my skill set. With every line of code, every project completed, and every problem solved, I gained valuable experience and insights that fueled my passion even further.
+I am seeking new challenges, exploring innovative technologies, and eagerly taking on any opportunity to learn and expand my skill set. With every line of code, every project completed, and every problem solved, I gain valuable experience and insights that fuel my passion even further.
 
----
+<img align="right" height="200" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=790b7611qaw1encb9i7r71nwf8dovinfjtmyacxb01n65hgn&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-<img align="right" height="200" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=790b7611qaw1encb9i7r71nwf8dovinfjtmyacxb01n65hgn&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+## 💻 **Technologies & Tools**
 
-###
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="30"/>
+### **Programming Languages**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="C# logo" title="C#" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript logo" title="JavaScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="TypeScript logo" title="TypeScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java logo" title="Java" />
 </div>
 
-###
+### **Frontend Development**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML5 logo" title="HTML5" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS3 logo" title="CSS3" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="Bootstrap logo" title="Bootstrap" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="TailwindCSS logo" title="TailwindCSS" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="Angular logo" title="Angular" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React logo" title="React (Learning)" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
+### **Backend Development (.NET Focus)**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="ASP.NET Core logo" title="ASP.NET Core" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="C# logo" title="C# - Primary Language" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="SQL Server logo" title="Entity Framework" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker logo" title="Docker" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redis" height="35" alt="Redis logo" title="Redis" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="35" alt="RabbitMQ logo" title="RabbitMQ" />
+</div>
+
+### **Databases**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="SQL Server logo" title="SQL Server" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="PostgreSQL logo" title="PostgreSQL" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redis" height="35" alt="Redis logo" title="Redis Cache" />
+</div>
+
+### **Cloud & DevOps**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=azure" height="35" alt="Azure logo" title="Microsoft Azure" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker logo" title="Docker" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="35" alt="Kubernetes logo" title="Kubernetes" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="35" alt="GitHub Actions logo" title="GitHub Actions" />
+</div>
+
+### **Development Tools**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="35" alt="Visual Studio logo" title="Visual Studio" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code logo" title="VS Code" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git logo" title="Git" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub logo" title="GitHub" />
+  <img width="8" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman logo" height="35" title="Postman" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma logo" title="Figma" />
+</div>
+
+## 🌟 **Featured Projects**
+
+<div align="center">
+  
+| Project | Description | Technologies |
+|---------|-------------|-------------|
+| **[MediFlow_BE](https://github.com/ddnhuy/MediFlow_BE)** | Hospital workflow management system with microservices architecture | `C#` `ASP.NET Core` `Microservices` `Docker` |
+| **[Petopia_BackEnd](https://github.com/ddnhuy/Petopia_BackEnd)** | Social network and pet management platform | `C#` `.NET 8` `Clean Architecture` `PostgreSQL` |
+| **[EShopMicroservices](https://github.com/ddnhuy/EShopMicroservices)** | E-commerce platform built with microservices | `C#` `Docker` `Event-Driven Architecture` |
+| **[CleanArchitecture](https://github.com/ddnhuy/CleanArchitecture)** | Clean Architecture template with best practices | `C#` `MediatR` `Entity Framework` |
+
+</div>
+
+## 📈 **Activity Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddnhuy&theme=dracula&bg_color=282a36&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+## 🏆 **Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ddnhuy&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+## 🤝 **Connect with me**
+
 <div align="center">
   <a href="mailto:doan.nhathuy.03@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/ddnHuy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ddnhathuy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/ddnHuy" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://github.com/ddnhuy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <h3>✨ Thank you for visiting my profile! ✨</h3>
+  <p><em>Feel free to reach out, share ideas, or simply say hello! 👋</em></p>
+  
+  **💭 Quote of the day:**
+  <div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  </div>
+</div>
 
 <!--
-<img src="https://raw.githubusercontent.com/iamSunHi/iamSunHi/output/snake.svg" alt="Snake animation" />
--->
-
-###
-
----
-
-### Thank you for visiting. Feel free to reach out, share ideas, or simply say hello!
-
-> Keep learning, keep growing, and never stop striving for excellence!
-
-<!--
-**iamSunHi/iamSunHi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://raw.githubusercontent.com/ddnhuy/ddnhuy/output/snake.svg" alt="Snake animation" />
 -->
