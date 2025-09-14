@@ -140,10 +140,10 @@ I am seeking new challenges, exploring innovative technologies, and eagerly taki
   <a href="mailto:doan.nhathuy.03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/ddnhathuy/" target="_blank">
+  <a href="https://www.linkedin.com/in/ddnhuy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/ddnHuy" target="_blank">
+  <a href="https://www.facebook.com/ddnhuy" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://github.com/ddnhuy" target="_blank">
